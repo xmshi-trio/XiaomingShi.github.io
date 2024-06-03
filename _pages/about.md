@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Xiaoming Shi (施晓明)'s academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 # About Me
 
