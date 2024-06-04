@@ -12,7 +12,7 @@ title                    : "Xiaoming Shi"
 title_separator          : "-"
 name                     : &name "Xiaoming Shi"
 description              : # &description "personal description"
-url                      : # "https://xmshi-trio.github.io/XiaomingShi.github.io/"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
