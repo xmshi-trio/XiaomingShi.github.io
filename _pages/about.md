@@ -20,8 +20,11 @@ From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shl
 * 2019.04 - 2019.09: Tencent, Algorithm Engineer Intern
 
 # Education Experience
-* 2024 
-* 2016.09 - 2022.09  Ph.D of Computer Science  Harbin Institute of Technology
+* 2016.09 - 2022.09: Ph.D of Computer Science,  Harbin Institute of Technology
+* 2012.09 - 2022.06: Bachelor of Mathematics, Harbin Institute of Technology
+
+# Award
+* Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划), 2023
 
 # News
 One paper has been accepted by ACL 2024.
