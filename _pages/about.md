@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-# About Me
 I am an Associate Professor and Master Supervisor at the School of Computer Science and Technology, East China Normal University (ECNU). 
 I was selected for the Shanghai Youth Science and Technology Rising Star Program (上海市青年科技启明星计划) in 2023.
 My research interests primarily focus on foundational issues in NLP and AI for medicine and education, such as Large Language Models, clinical NLP, and AI-assisted education. 
