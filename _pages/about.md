@@ -14,7 +14,7 @@ I completed my Ph.D. at the [Research Center for Social Computing and Informatio
 From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), working on the large language model for the medical domain.
 
 # Education and Work Experience
-* 2016.09 - 2022.09 &nbsp Ph.D of Computer Science &nbsp Harbin Institute of Technology
+* 2016.09 - 2022.09  Ph.D of Computer Science  Harbin Institute of Technology
 
 # News
 One paper has been accepted by ACL 2024.
