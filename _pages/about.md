@@ -13,7 +13,11 @@ My research interests primarily focus on foundational issues in NLP and AI for m
 I completed my Ph.D. at the [Research Center for Social Computing and Information Retrieval (SCIR)](https://ir.hit.edu.cn/) in 2022, under the supervision of Professor [Wanxiang Che](http://ir.hit.edu.cn/~car/). 
 From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), working on the large language model for the medical domain.
 
-# Education and Work Experience
+# Work Experience
+* 2024.05 - Present - East China Normal University
+
+# Education Experience
+* 2024 
 * 2016.09 - 2022.09  Ph.D of Computer Science  Harbin Institute of Technology
 
 # News
