@@ -14,7 +14,10 @@ I completed my Ph.D. at the [Research Center for Social Computing and Informatio
 From 2022 to 2024, I was a young researcher at [Shanghai AI Lab](https://www.shlab.org.cn/), working on the large language model for the medical domain.
 
 # Work Experience
-* 2024.05 - Present - East China Normal University
+* 2024.05 - Present: East China Normal University, Assistant Professor
+* 2022.10 - 2024.04: Shanghai AI Lab, Young Researcher
+* 2020.05 - 2021.05: Tencent, Algorithm Engineer Intern
+* 2019.04 - 2019.09: Tencent, Algorithm Engineer Intern
 
 # Education Experience
 * 2024 
